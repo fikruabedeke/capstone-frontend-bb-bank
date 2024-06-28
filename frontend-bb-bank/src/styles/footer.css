@@ -1,0 +1,14 @@
+.footercontainer{
+    padding: 3px;
+}
+.footertop{
+    background-color:"#eee6d3";
+    border-radius: 10px;
+}
+.App-footer{
+    background-color:navy;
+    border-width: 20px;
+    border-radius: 5px;
+    -webkit-text-fill-color: aquamarine;
+    text-align: center;
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="30mm"
+   viewBox="0 0 150 30"
+   version="1.1"
+   id="svg1"
+   inkscapeVersion="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodiDocname="cpyright.svg"
+   xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlnsSvg="http://www.w3.org/2000/svg">
+  <sodipodiNamedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscapeShowpageshadow="0"
+     inkscapePageopacity="0"
+     inkscapePagecheckerboard="1"
+     inkscapeDeskcolor="#d1d1d1"
+     inkscapeDocument-units="mm"
+     inkscapeZoom="0.69219276"
+     inkscapeCx="397.28818"
+     inkscapeCy="157.47059"
+     inkscapeWindow-width="1450"
+     inkscapeWindow-height="1020"
+     inkscapeWindow-x="203"
+     inkscapeWindow-y="-8"
+     inkscapeWindow-maximized="0"
+     inkscapeCurrent-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="0"
+       y="0"
+       width="366.25177"
+       height="53.831398"
+       id="rect1" />
+    <symbol
+       id="bank2"
+       viewBox="0 0 524.11353 529.76758">
+      <title
+         id="title9">Bank 2</title>
+      <path
+         opacity="0.2"
+         d="M 262.0565,15.545518 9.99706,207.45295 H 60.408616 V 515.31394 H 211.64464 315.92543 463.70442 V 207.45295 h 50.4119 L 262.05652,15.545518 Z"
+         id="path10" />
+      <path
+         d="m 262.0558,0 a 10.001,10.001 0 0 0 -6.02344,2.140625 L 255.99916,2.042965 3.93861,193.95116 a 10.001,10.001 0 0 0 6.058594,17.95509 h 40.412109 v 307.86133 a 10.001,10.001 0 0 0 10,10 h 151.234377 104.28125 147.7793 a 10.001,10.001 0 0 0 10,-10 V 211.90625 h 40.41211 a 10.001,10.001 0 0 0 6.05859,-17.95508 L 268.11439,2.042985 l -0.004,0.01367 A 10.001,10.001 0 0 0 262.0557,9.0000001e-6 Z m 0.002,22.568359 222.41407,169.337891 h -20.76758 a 10.001,10.001 0 0 0 -10,10 V 509.76758 H 315.92499 211.64374 70.40936 V 201.90625 a 10.001,10.001 0 0 0 -10,-10 H 39.639829 L 262.05775,22.568359 Z m 0.13281,61.333992 a 23.084784,23.084784 0 0 0 -22.73437,23.408199 v 13.63867 c -29.67958,3.56586 -52.54516,12.8174 -68.04687,27.97852 -17.05252,16.67833 -25.62699,36.79216 -25.62696,59.95898 -3e-5,23.31001 8.68357,42.688 25.99219,57.63477 15.62839,13.49625 38.31783,23.30215 67.68164,29.69336 v 116.86132 c -12.28317,-2.68552 -22.38536,-8.12638 -30.41797,-16.6289 -10.23199,-10.83032 -17.19966,-26.49396 -20.65039,-47.08789 a 2.7170355,2.3007614 0 0 0 -3.16797,-1.94141 l -44.93554,6.76367 a 2.7170355,2.3007614 0 0 0 -2.23438,2.42969 c 2.36288,28.1556 12.81502,50.36937 31.49023,66.25586 16.83622,14.32219 40.2741,23.40836 69.91602,27.4668 v 19.28515 a 23.084784,23.084784 0 1 0 46.16406,0 v -19.8164 c 28.21673,-3.48394 54.32729,-13.04508 70.88672,-29.05274 19.21052,-18.57083 28.8845,-40.69693 28.88477,-65.99414 -2.7e-4,-24.70016 -8.82993,-44.98763 -26.48438,-60.37304 -15.94412,-13.89426 -43.16395,-23.54481 -73.28711,-29.50586 V 160.42188 c 9.2706,2.82591 17.94746,6.75684 22.8418,11.59179 8.08023,7.98312 13.49627,18.92676 16.10351,33 a 2.7170355,2.3007614 0 0 0 3.07422,1.92188 l 46.68555,-5.70703 a 2.7170355,2.3007614 0 0 0 2.29688,-2.625 C 372.3927,175.11015 361.90158,156.58544 345.07924,143.35743 331.00949,132.29468 308.988,125.28062 285.62025,121.78907 V 107.31055 A 23.084784,23.084784 0 0 0 262.19056,83.902351 Z m -22.73437,74.539059 v 95.61328 c -11.95818,-4.05706 -21.70791,-9.17797 -29.12695,-15.4082 -9.42967,-7.91815 -14.17586,-18.6488 -14.17578,-32.71875 -8e-5,-12.18982 4.56172,-22.74626 13.83593,-32.02149 7.21717,-7.21766 17.0382,-12.32758 29.4668,-15.46484 z m 46.16406,149.49805 c 16.3073,5.08269 30.16619,10.85958 35.92969,16.6875 8.10127,8.19244 12.2205,19.03543 12.2207,32.8789 -2e-4,15.75434 -5.4209,28.52336 -16.27929,38.73242 -7.44212,6.99689 -19.4699,12.17931 -31.8711,15.41407 z"
+         id="path11" />
+    </symbol>
+    <rect
+       x="0"
+       y="0"
+       width="366.25177"
+       height="53.831398"
+       id="rect1-1" />
+  </defs>
+  <g
+     inkscapeLabel="Layer 1"
+     inkscapeGroupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0000ff;fill-opacity:0.98;stroke:#ffffff;stroke-width:1.0164;stroke-miterlimit:3.8;paint-order:markers stroke fill"
+       id="rect7"
+       width="145.41434"
+       height="18.297981"
+       x="1.2059572"
+       y="5.8510094"
+       ry="1.488555" />
+    <text
+       xmlSpace="preserve"
+       transform="matrix(0.26587946,0,-0.04883184,0.29383406,3.8808147,7.5204138)"
+       id="text1-6"
+       style="font-weight:bold;font-size:45.3543px;line-height:1.15;font-family:'Microsoft PhagsPa';-inkscape-font-specification:'Microsoft PhagsPa Bold';white-space:pre;shape-inside:url(#rect1-1);display:inline;fill:#501616;fill-opacity:0.98;stroke:#ffffff;stroke-width:4.3011;stroke-miterlimit:3.8;paint-order:markers stroke fill"><tspan
+         x="0"
+         y="38.585372"
+         id="tspan12"><tspan
+           style="font-size:37.6875px"
+           id="tspan1">     </tspan><tspan
+           style="font-weight:normal;font-size:38.7441px;font-family:'Microsoft YaHei';-inkscape-font-specification:'Microsoft YaHei'"
+           id="tspan2">Welcome to </tspan><tspan
+           style="fill:#0000ff"
+           id="tspan5">B&amp;B Bank</tspan><tspan
+           style="font-size:28.7441px"
+           id="tspan7">  </tspan></tspan></text>
+  </g>
+</svg>
